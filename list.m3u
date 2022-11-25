@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="World Cup 2022", Group A
+#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", itv UK
 https://lisa.xonthebeach.net/live/itvuk/index.m3u8
