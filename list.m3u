@@ -5,3 +5,43 @@ https://lisa.xonthebeach.net/live/itvuk/index.m3u8
 https://lisa.xonthebeach.net/live/telemundo/index.m3u8
 #EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [EN] FOX Sport 1
 https://lisa.xonthebeach.net/live/fs1us/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uM4AcHP.png" group-title="Bein Sports Arabic",beIN SPORTS Max 1
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hStv4RT.png" group-title="Bein Sports Arabic",beIN SPORTS Max 2
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O84eEDl.png" group-title="Bein Sports Arabic",beIN SPORTS Max 3
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/74
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lN9a095.png" group-title="Bein Sports Arabic",beIN SPORTS Max 4
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/75
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOM5qnh.png" group-title="Bein Sports Arabic",beIN SPORTS Max 5
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/76
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDNgimS.png" group-title="Bein Sports Arabic",beIN SPORTS Max 6
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/77
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjWE8o8.png" group-title="Bein Sports Arabic",beIN SPORTS Premium 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/109
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n2KX0uF.png" group-title="Bein Sports Arabic",beIN SPORTS Premium 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280145
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GS3x1DY.png" group-title="Bein Sports Arabic",beIN SPORTS Premium 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280249
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPczNqy.png" group-title="Bein Sports Arabic",beIN SPORTS Xtra 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290037
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBwmkGV.png" group-title="Bein Sports Arabic",beIN SPORTS Xtra 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/283294
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8d9ETj.png" group-title="Bein Sports Arabic",beIN SPORTS AFC
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296113
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8d9ETj.png" group-title="Bein Sports Arabic",beIN SPORTS AFC 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296116
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nS7DJci.png" group-title="Bein Sports Arabic",beIN SPORTS AFC 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296115
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJBpFpW.png" group-title="Bein Sports Arabic",beIN SPORTS AFC 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296119
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2wvrjuN.png" group-title="Bein Sports English",beIN SPORTS English 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/110
+#EXTINF:-1 tvg-logo="https://i.imgur.com/744Q1HW.png" group-title="Bein Sports English",beIN SPORTS English 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/111
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bhd4rL.png" group-title="Bein Sports English",beIN SPORTS English 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/267769
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAzrGYj.png" group-title="Bein Sports Arabic",beIN SPORTS NBA
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/15962
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wWR2kF.png" group-title="Bein Sports Arabic",beIN SPORTS News
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/1266
