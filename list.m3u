@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Group A
+#EXTINF:-1 group-title="World Cup 2022", Group A
 https://lisa.xonthebeach.net/live/itvuk/index.m3u8
