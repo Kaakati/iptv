@@ -5,3 +5,15 @@ https://lisa.xonthebeach.net/live/itvuk/index.m3u8
 https://lisa.xonthebeach.net/live/telemundo/index.m3u8
 #EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [EN] FOX Sport 1
 https://lisa.xonthebeach.net/live/fs1us/index.m3u8
+#EXTINF: -1 tvg-logo="" group-title="BeIN", [AR] BeIN Drama
+https://list.iptvcat.com/my_list/s/f6a0d2cd7da9cd1e73906a65b0c44949.m3u8
+#EXTINF: -1 tvg-logo="" group-title="BeIN", [AR] BeIN Gourmet
+https://list.iptvcat.com/my_list/s/aeae11a067e7d9eac1d2521d07b9c7aa.m3u8
+#EXTINF: -1 tvg-logo="" group-title="BeIN", [AR] BEIN JUNIOR
+https://list.iptvcat.com/my_list/s/914a0a036659bc92770d0732ccbef6d3.m3u8
+#EXTINF: -1 tvg-logo="" group-title="BeIN", [AR] BEIN MOVIES 1 PREMIERE
+https://list.iptvcat.com/my_list/s/8a2ab4e250b85a72340ff02e92d8b7ff.m3u8
+#EXTINF: -1 tvg-logo="" group-title="BeIN", [AR] BEIN MOVIES 2 ACTION
+https://list.iptvcat.com/my_list/s/68e6a3bf6bd5216f84a1e6059484ce2f.m3u8
+#EXTINF: -1 tvg-logo="" group-title="BeIN", [AR] BEIN MOVIES 3 DRAMA
+https://list.iptvcat.com/my_list/s/e08e8e4f0feae3a453f6369f88522f73.m3u8
