@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", itv UK
+#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [EN] itv UK
 https://lisa.xonthebeach.net/live/itvuk/index.m3u8
+#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [ES] tele Mundo
+https://lisa.xonthebeach.net/live/telemundo/index.m3u8
+#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [EN] FOX Sport 1
+https://lisa.xonthebeach.net/live/fs1us/index.m3u8
