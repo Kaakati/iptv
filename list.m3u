@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [EN] itv UK
-https://lisa.xonthebeach.net/live/itvuk/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [ES] tele Mundo
-https://lisa.xonthebeach.net/live/telemundo/index.m3u8
-#EXTINF: -1 tvg-logo="" group-title="World Cup 2022", [EN] FOX Sport 1
-https://lisa.xonthebeach.net/live/fs1us/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uM4AcHP.png" group-title="Bein Sports Arabic",beIN SPORTS Max 1
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
+http://lb.yacinetvkora.com/live11/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTMudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvdVZxbmtpaEdDRnNGcnVIM3R5SEFOYWRJSG9UWk5jM1VvbkRnY01oNjJWUHVWbXRtdFB2NXRJcWhhRVpQb3NsdVNyXzB5MHdqdWdyVmVHUEFMRGlTSGcvdHJhbnNjb2RlL2V1LXdlc3QtMy9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMy1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hStv4RT.png" group-title="Bein Sports Arabic",beIN SPORTS Max 2
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73
+http://lb.buy-global.store/live/lb555/bm2-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O84eEDl.png" group-title="Bein Sports Arabic",beIN SPORTS Max 3
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/74
+http://lb.yacinetvkora.com/live/lb/bm3-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN9a095.png" group-title="Bein Sports Arabic",beIN SPORTS Max 4
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/75
+http://lb.yacinetvkora.com/live/lb/bm4-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOM5qnh.png" group-title="Bein Sports Arabic",beIN SPORTS Max 5
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/76
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDNgimS.png" group-title="Bein Sports Arabic",beIN SPORTS Max 6
